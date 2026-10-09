@@ -1,0 +1,43 @@
+Student Details
+Student Name: Adesh Tiwari
+Registration / Roll No.: 12617174
+Program / Section: D1P2633
+Activity Recording Period: 13 August 2026 to 26 September 2026
+Date of Report Generation: 27 September 2026
+
+1. Activity Data Summary
+Expected number of days: 45
+Valid days recorded: 43
+Missing days: 2
+Invalid / excluded records: 0
+Average Sleep/day: 483.72
+Average Fitness/day: 26.05
+Average Study/day: 190.47
+Average Coding/day: 106.86
+Average Class/day: 146.28
+Average Other Activities/day: 65.58
+Average Free / Unaccounted Time/day: 421.05
+
+2. Index Values
+Tech Productivity (TPI): 106.86 min/day
+Academic Activity (AAI): 336.75 min/day
+Physical Activity (PhAI): 26.05 min/day
+Sleep & Recovery (SRI): 483.72 min/day
+Activity Balance (ABI): 421.05 min/day
+Time Utilization (TUI): 1018.95 min/day
+Experience Index (EI): 3.12 / 5
+Data Continuity Index (DCI): 95.56 %
+Personal Activity Index (PAI): 341.96
+
+3. Key Findings from My Data
+1) Sleep <-> Energy | On days with < 450 mins sleep (e.g., Aug 31, Sept 17), energy levels are consistently reported as 'Low' or 'Medium'. Days with > 500 mins often resulted in 'High' energy levels.
+2) Study <-> Satisfaction | Days with higher self-study times (over 200 mins like Aug 22, Sept 12) consistently resulted in 'Satisfied' or 'Very Satisfied' ratings at the end of the day.
+3) Coding <-> Energy | High coding days (e.g. Sept 20 with 180 mins) didn't necessarily drop energy immediately, but high overall screen time (study + coding) often led to 'Medium' energy overall, suggesting mental fatigue.
+4) Fitness <-> Free Time | When fitness was 0 or very low (e.g., Aug 27, Aug 31), free time was relatively high, meaning I skipped workouts to relax rather than due to a genuine lack of time.
+5) Classes <-> Feeling | Heavy class days (e.g. 350 mins on Aug 25) correlated with 'Low' energy and 'Neutral' feelings, indicating long academic schedules drain my mood.
+
+4. Findings About Myself
+Looking at the data over these 45 days, I noticed that I am fairly consistent with my daily schedule, missing only two days of tracking. My sleep average is around 8 hours (483 minutes), which shows I'm maintaining a healthy rest cycle, and the data reflects that this directly impacts my energy levels throughout the week. I found that I spend a significant chunk of my day on academic activities, averaging over 330 minutes between classes and self-study, plus over an hour and a half (106 mins) purely on coding. However, my physical fitness duration is quite low, averaging just 26 minutes a day. Whenever I had a heavy class schedule, my energy levels usually dipped to 'Medium' or 'Low', and I ended up skipping my fitness routine entirely on some of those days. On the bright side, completing my coding and study targets made me feel 'Satisfied' at the end of the day, proving that staying on top of my workload is key to my mental well-being, even if it leaves me slightly tired.
+
+5. Areas and Ways to Improve My Lifestyle
+Based on the evidence from my activity tracker, the biggest area needing improvement is my physical fitness. Right now, 26 minutes a day is too low, and on busier academic days, I often drop it to 0. To fix this, I plan to schedule a strict 45-minute workout in the mornings before classes start, so my academic workload later in the day doesn't become an excuse to skip it. Another area to work on is managing screen fatigue. Since my Tech Productivity (coding) and Academic Activity take up a lot of time, I often feel 'Low' energy by the evening. I intend to take short 10-minute breaks every hour during my self-study and coding sessions to avoid this burnout. Lastly, my free/unaccounted time is quite high (over 400 minutes a day on average). I want to utilize at least an hour of this unaccounted time for skill-building outside of my regular coursework or picking up a hobby to keep my daily experience more balanced and enjoyable.
